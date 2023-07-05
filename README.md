@@ -6,7 +6,7 @@
 
 <h4>Connect with me:</h4>
 
-<a href="https://beingvin.github.io/iamvin"><img style="width:2%;margin-right:5rem;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://beingvin.com"><img style="width:2%;margin-right:5rem;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 
 <a href="https://twitter.com/beingvin"><img style="width:2%;margin-right:5rem;" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667"></a>
 
